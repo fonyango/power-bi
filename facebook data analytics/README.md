@@ -23,4 +23,5 @@ Below is a summary of the visualizations:
 
 ![image](https://github.com/fonyango/power-bi/blob/main/facebook%20data%20analytics/images/metrics.PNG)
 
+
 You can also check how I did this analysis using python in this [repository](https://github.com/fonyango/Data-Analysis/tree/main/Facebook%20Live%20Sellers).
