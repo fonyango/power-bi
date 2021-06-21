@@ -5,7 +5,7 @@
 
 *Motivation*: To understand how data analytics can be used to provide valuable insights in social media marketing.
 
-Data:
+**Data**:
 
 This data is from facebook pages of 10 Thai fashion and cosmetic retail sellers. You can get the raw data [here](https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand#)
 
